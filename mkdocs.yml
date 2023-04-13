@@ -1,0 +1,11 @@
+site_name: follicle-tracker
+site_description: This napari plugin should run the 3D follicle segmentation and return the results in a seperate table.
+site_author: Leopold Franz
+
+theme: readthedocs
+
+
+repo_url: https://github.com/leopold-franz/follicle-tracker
+
+pages:
+- Home: index.md
